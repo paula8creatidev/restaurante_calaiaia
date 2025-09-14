@@ -20,7 +20,7 @@ Esta página web aún está en desarrollo por lo que podrá sufrir cambios en el
 
 Puedes ver esta página a través de mi portfolio en: https://webportfolio-paulallago.netlify.app/
 
-O también la puedes ver directamente aquí: 
+O también la puedes ver directamente aquí: https://ca-la-iaia.netlify.app/
 
 ---
 
