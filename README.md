@@ -36,7 +36,7 @@ O también la puedes ver directamente aquí:
 # Características destacadas
 
 - Diseño responsivo para ordenador, tablet y móvil
-- 3 páginas accesibles desde el menú: inicio (con el banner), productos con el menú/carta de productos (en desarrollo) hecha con AngularJS para la funcionalidad y nosotros, donde hago una breve presentación con enlaces a mis RRSS.
+- 3 páginas accesibles desde el menú: *inicio* (con el banner), *productos* con el menú/carta de productos (en desarrollo) hecha con AngularJS para la funcionalidad y *nosotros*, donde hago una breve presentación con enlaces a mis RRSS.
 - Estilo creativo, profesional y limpio
 
 ---
