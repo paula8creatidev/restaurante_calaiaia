@@ -22,6 +22,11 @@ body
     background-attachment: fixed;
 }
 
+a
+{
+  text-decoration: none !important;
+}
+
 header
 {
     display: flex;
@@ -415,4 +420,5 @@ footer
     {
         font-size: 1.5rem;
     }
+
 }
